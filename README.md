@@ -1,5 +1,9 @@
 # DLSTM2
 python code to implement Deep Long-Short Term Memory (updated version)
+
+This model and experiments belongs to a paper by the title:
+
+Time series forecasting of petroleum production using deep LSTM recurrent networks
 ---------------------------------------------------------------------
 
 There are two folders, namely:
